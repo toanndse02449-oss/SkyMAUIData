@@ -1,0 +1,13 @@
+{
+	"Version": 1,
+	"Data": [
+	{
+		"Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g1.data",
+		"ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g1.png"
+	},
+	{
+		"Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g2.data",
+		"ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g2.png"
+	}
+	]
+}
