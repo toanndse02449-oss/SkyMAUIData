@@ -3,11 +3,14 @@
 	"Data": [
 	{
 		"Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g1.data",
-		"ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g1.png"
+		"ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g1.png",
+		"Name" : "Pokemon"
 	},
 	{
 		"Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g2.data",
-		"ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g2.png"
+		"ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g2.png",
+		"Name" : "Megaman Battle Network"
 	}
 	]
+
 }
