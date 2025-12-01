@@ -1,16 +1,825 @@
 {
-	"Version": 1,
-	"Data": [
-	{
-		"Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g1.data",
-		"ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g1.png",
-		"Name" : "Pokemon"
-	},
-	{
-		"Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g2.data",
-		"ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g2.png",
-		"Name" : "Megaman Battle Network"
-	}
-	]
-
+  "Version": 1,
+  "Data": [
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g1.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g1.png",
+      "Name": "Advance Wars 2 - Black Hole Rising (USA, Australia)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g2.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g2.png",
+      "Name": "Advanced Wars"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g3.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g3.png",
+      "Name": "Aero the Acrobat - Rascal Rival Revenge"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g4.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g4.png",
+      "Name": "Alien Hominid"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g5.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g5.png",
+      "Name": "Astro Boy - Omega Factor"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g6.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g6.png",
+      "Name": "Atari Anniversary Advance (USA)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g7.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g7.png",
+      "Name": "Banjo Kazooie - Grunty_s Revenge"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g8.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g8.png",
+      "Name": "Banjo Pilot"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g9.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g9.png",
+      "Name": "Bomber-Man Tournament"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g10.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g10.png",
+      "Name": "Bomberman Max 2 - Blue (E)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g11.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g11.png",
+      "Name": "Bomberman Max 2 - Red (E)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g12.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g12.png",
+      "Name": "Breath of Fire (E)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g13.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g13.png",
+      "Name": "Breath of Fire II (USA)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g14.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g14.png",
+      "Name": "Broken Sword - the Shadow of the Templars"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g15.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g15.png",
+      "Name": "Car Battler Joe (USA)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g16.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g16.png",
+      "Name": "Castlevania - Aria of Sorrow (USA)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g17.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g17.png",
+      "Name": "Castlevania - Circle of the Moon"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g18.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g18.png",
+      "Name": "Castlevania - Harmony Of Dissonance"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g19.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g19.png",
+      "Name": "Chu Chu Rocket!"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g20.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g20.png",
+      "Name": "Crash Bandicoot - Purple Riptos Rampage"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g21.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g21.png",
+      "Name": "Crash Bandicoot - the Huge Adventure"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g22.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g22.png",
+      "Name": "Crash Bandicoot 2 - N-Tranced"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g23.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g23.png",
+      "Name": "Denki Blocks! (USA) (En,Es)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g24.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g24.png",
+      "Name": "Densetsu no Stafy 2"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g25.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g25.png",
+      "Name": "Densetsu no Stafy 3"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g26.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g26.png",
+      "Name": "Densetsu no Stafy"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g27.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g27.png",
+      "Name": "Disney_s Kim Possible 2 - Drakken_s Demise (U)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g28.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g28.png",
+      "Name": "Donkey Kong - King of Swing"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g29.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g29.png",
+      "Name": "Donkey Kong Country 2 (U)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g30.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g30.png",
+      "Name": "Donkey Kong Country 3"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g31.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g31.png",
+      "Name": "Donkey Kong Country"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g32.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g32.png",
+      "Name": "Dr. Mario \u0026 Puzzle League"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g33.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g33.png",
+      "Name": "Drill Dozer"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g34.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g34.png",
+      "Name": "Duke Nukem Advance (U)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g35.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g35.png",
+      "Name": "Ecks vs. Sever (E)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g36.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g36.png",
+      "Name": "F-Zero - Maximum Velocity (USA, Europe)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g37.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g37.png",
+      "Name": "F-Zero 2 - GP Legend"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g38.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g38.png",
+      "Name": "Final Fantasy 1 \u002B 2 - Dawn of Souls"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g39.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g39.png",
+      "Name": "Final Fantasy 4 Advance"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g40.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g40.png",
+      "Name": "Final Fantasy 5 Advance"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g41.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g41.png",
+      "Name": "Final Fantasy 6 Advance"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g42.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g42.png",
+      "Name": "Final Fight One (U)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g43.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g43.png",
+      "Name": "Fire Emblem - the Sacred Stones"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g44.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g44.png",
+      "Name": "Fire Emblem"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g45.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g45.png",
+      "Name": "Frogger_s Adventure - Temple of the Frog"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g46.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g46.png",
+      "Name": "Frogger_s Adventures 2 - The Lost Wand (E)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g47.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g47.png",
+      "Name": "Game \u0026 Watch Gallery Advance"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g48.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g48.png",
+      "Name": "Golden Sun - The Lost Age (USA, Europe)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g49.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g49.png",
+      "Name": "Golden Sun"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g50.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g50.png",
+      "Name": "Gradius Galaxies (USA)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g51.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g51.png",
+      "Name": "Grand Theft Auto Advance"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g52.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g52.png",
+      "Name": "Gunstar Super Heroes"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g53.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g53.png",
+      "Name": "Hamtaro - Ham-Ham Games (Europe) (En,Fr,De,Es,It)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g54.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g54.png",
+      "Name": "Harvest Moon - Friends of Mineral Town"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g55.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g55.png",
+      "Name": "Harvest Moon - More Friends of Mineral Town (U)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g56.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g56.png",
+      "Name": "Karnaaj Rally (U)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g57.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g57.png",
+      "Name": "King of Fighters EX 2 - Howling Blood"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g58.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g58.png",
+      "Name": "King of Fighters EX, The - NeoBlood (U) (V1.1)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g59.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g59.png",
+      "Name": "Kingdom Hearts - Chain of Memories"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g60.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g60.png",
+      "Name": "Kirby - Nightmare in Dreamland (U) [!]"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g61.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g61.png",
+      "Name": "Kirby and the Amazing Mirror"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g62.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g62.png",
+      "Name": "Klonoa - Empire of Dreams"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g63.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g63.png",
+      "Name": "Klonoa 2 - Dream Champ Tournament"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g64.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g64.png",
+      "Name": "Konami Krazy Racers (Europe)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g65.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g65.png",
+      "Name": "Kuru Kuru Kururin"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g66.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g66.png",
+      "Name": "Kururin Paradise (Japan)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g67.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g67.png",
+      "Name": "Legend of Zelda, The - A Link to the Past \u0026 Four Swords (USA, Australia)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g68.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g68.png",
+      "Name": "LEGO - Star Wars - the Video Game"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g69.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g69.png",
+      "Name": "LEGO - Star Wars 2 - the Original Trilogy"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g70.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g70.png",
+      "Name": "Lilo \u0026 Stitch"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g71.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g71.png",
+      "Name": "Lord of the Rings 2 - the Two Towers"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g72.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g72.png",
+      "Name": "Lord of the Rings 3 - Return of the King"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g73.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g73.png",
+      "Name": "Lunar Legend (U) [!]"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g74.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g74.png",
+      "Name": "Mario Advanced - Mario Bros. 2 \u002B Mario Classic"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g75.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g75.png",
+      "Name": "Mario Advanced 2 - Mario World"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g76.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g76.png",
+      "Name": "Mario Advanced 4 - Mario Bros. 3"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g77.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g77.png",
+      "Name": "Mario and Luigi - Superstar Saga"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g78.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g78.png",
+      "Name": "Mario Golf - Advance Tour"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g79.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g79.png",
+      "Name": "Mario Kart - Super Circuit"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g80.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g80.png",
+      "Name": "Mario Tennis - Power Tour"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g81.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g81.png",
+      "Name": "Mario vs. Donkey Kong"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g82.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g82.png",
+      "Name": "Max Payne (USA)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g83.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g83.png",
+      "Name": "Medal of Honor - Infiltrator (U)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g84.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g84.png",
+      "Name": "Mega-Man - Zero 2"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g85.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g85.png",
+      "Name": "Mega-Man - Zero 3"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g86.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g86.png",
+      "Name": "Mega-Man - Zero 4"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g87.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g87.png",
+      "Name": "Mega-Man and Bass"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g88.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g88.png",
+      "Name": "Mega-Man Battle Network 2"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g89.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g89.png",
+      "Name": "Mega-Man Battle Network 3 - Blue"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g90.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g90.png",
+      "Name": "Mega-Man Battle Network 3 - White"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g91.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g91.png",
+      "Name": "Mega-Man Battle Network 4 - Blue Moon"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g92.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g92.png",
+      "Name": "Mega-Man Battle Network 4 - Red Sun"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g93.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g93.png",
+      "Name": "Mega-Man Battle Network 5 - Team Colonel"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g94.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g94.png",
+      "Name": "Mega-Man Battle Network 5 - Team Proto-Man"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g95.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g95.png",
+      "Name": "Mega-Man Battle Network 6 - Cybeast Falzar"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g96.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g96.png",
+      "Name": "Mega-Man Battle Network 6 - Cybeast Gregar"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g97.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g97.png",
+      "Name": "Mega-Man Battle Network"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g98.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g98.png",
+      "Name": "Megaman Zero (USA, Europe)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g99.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g99.png",
+      "Name": "Metal Slug Advance"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g100.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g100.png",
+      "Name": "Metroid - Fusion"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g101.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g101.png",
+      "Name": "Metroid - Zero Mission"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g102.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g102.png",
+      "Name": "Monkey Ball Jr."
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g103.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g103.png",
+      "Name": "Monster Rancher Advance (USA)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g104.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g104.png",
+      "Name": "Monster Rancher Advance 2 (USA)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g105.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g105.png",
+      "Name": "Mortal Kombat - Deadly Alliance (USA) (En,Fr,De,Es,It)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g106.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g106.png",
+      "Name": "Mother 3 (J) [T\u002BEng]"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g107.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g107.png",
+      "Name": "Ninja Cop"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g108.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g108.png",
+      "Name": "Pac-Man Collection"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g109.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g109.png",
+      "Name": "Pocky \u0026 Rocky with Becky"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g110.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g110.png",
+      "Name": "Pokemon - Emerald Version (USA, Europe)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g111.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g111.png",
+      "Name": "Pokemon - Fire Red"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g112.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g112.png",
+      "Name": "Pokemon - Leaf Green Version (USA)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g113.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g113.png",
+      "Name": "Pokemon - Ruby Version (USA)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g114.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g114.png",
+      "Name": "Pokemon - Sapphire Version (USA)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g115.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g115.png",
+      "Name": "Pokemon Mystery Dungeon - Red Rescue Team"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g116.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g116.png",
+      "Name": "Pokemon Pinball - Ruby \u0026 Sapphire (E)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g117.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g117.png",
+      "Name": "Puyo Pop"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g118.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g118.png",
+      "Name": "Puzzle Fighter 2 Turbo"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g119.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g119.png",
+      "Name": "Racing Gears Advance (U)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g120.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g120.png",
+      "Name": "Ray-Man 3 - Hoodlum Havoc"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g121.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g121.png",
+      "Name": "Ray-Man Advance"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g122.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g122.png",
+      "Name": "Rhythm Tengoku (Japan)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g123.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g123.png",
+      "Name": "Riviera - The Promised Land (U)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g124.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g124.png",
+      "Name": "Sonic Advance 2"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g125.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g125.png",
+      "Name": "Sonic Advance 3 (USA) (En,Ja,Fr,De,Es,It)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g126.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g126.png",
+      "Name": "Sonic Advance"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g127.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g127.png",
+      "Name": "Sonic Battle"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g128.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g128.png",
+      "Name": "Sonic Pinball Party (USA) (En,Ja,Fr,De,Es,It)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g129.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g129.png",
+      "Name": "Spider-Man - Mysterio_s Menace (U) [!]"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g130.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g130.png",
+      "Name": "Spyro - Season of Ice"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g131.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g131.png",
+      "Name": "Spyro 2 - Season of Flame"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g132.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g132.png",
+      "Name": "Spyro 3 - Attack of the Rhynocs"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g133.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g133.png",
+      "Name": "Spyro Orange - the Cortex Conspiracy"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g134.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g134.png",
+      "Name": "Street Fighter Alpha 3 (E) [!]"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g135.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g135.png",
+      "Name": "Summon Night - Swordcraft Story 2"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g136.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g136.png",
+      "Name": "Summon Night - Swordcraft Story"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g137.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g137.png",
+      "Name": "Super Bust-A-Move (USA) (En,Fr,Es)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g138.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g138.png",
+      "Name": "Super Dodge Ball Advance (Europe)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g139.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g139.png",
+      "Name": "Super Ghouls _N Ghosts (U)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g140.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g140.png",
+      "Name": "Super Mario Advance 3 - Yoshi_s Island (USA)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g141.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g141.png",
+      "Name": "Super Robot Taisen - Original Generation 2 (U) [!]"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g142.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g142.png",
+      "Name": "Super Street Fighter II Turbo - Revival (E) [!]"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g143.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g143.png",
+      "Name": "Sword of Mana (USA, Australia)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g144.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g144.png",
+      "Name": "Tactics Ogre - the Knight of Lodis"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g145.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g145.png",
+      "Name": "Tales of Phantasia (USA, Australia)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g146.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g146.png",
+      "Name": "Tekken Advance (U) [!]"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g147.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g147.png",
+      "Name": "TMNT (U)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g148.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g148.png",
+      "Name": "Tony Hawk_s Downhill Jam"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g149.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g149.png",
+      "Name": "Tony Hawk_s Pro Skater 2"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g150.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g150.png",
+      "Name": "Tony Hawk_s Pro Skater 3 (U) [!]"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g151.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g151.png",
+      "Name": "Tony Hawk_s Pro Skater 4"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g152.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g152.png",
+      "Name": "Tony Hawk_s Underground (U)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g153.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g153.png",
+      "Name": "Tony Hawk_s Underground 2"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g154.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g154.png",
+      "Name": "Turbo Turtle Adventure (USA)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g155.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g155.png",
+      "Name": "Ultimate Brain Games (U)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g156.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g156.png",
+      "Name": "Ultimate Card Games (U)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g157.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g157.png",
+      "Name": "V-Rally 3 (U)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g158.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g158.png",
+      "Name": "Virtua Tennis (U)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g159.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g159.png",
+      "Name": "Wade Hixton_s Counter Punch (USA, Europe)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g160.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g160.png",
+      "Name": "Wario Land 4 (UE) [!]"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g161.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g161.png",
+      "Name": "Wario Ware Inc."
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g162.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g162.png",
+      "Name": "Yggdra Union - We_ll Never Fight Alone (USA)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g163.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g163.png",
+      "Name": "Yu-Gi-Oh! - The Eternal Duelist Soul (U) [!]"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g164.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g164.png",
+      "Name": "Zelda - the Minish Cap"
+    }
+  ]
 }
