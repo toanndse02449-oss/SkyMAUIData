@@ -3,27 +3,27 @@
   "Data": [
     {
       "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g84.data",
-      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g1.png",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g1.jpg",
       "Name": "Mega-Man - Zero 2"
     },
     {
       "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g85.data",
-      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g2.png",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g2.jpg",
       "Name": "Mega-Man - Zero 3"
     },
     {
       "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g86.data",
-      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g3.png",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g3.jpg",
       "Name": "Mega-Man - Zero 4"
     },
     {
       "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g87.data",
-      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g4.png",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g4.jpg",
       "Name": "Mega-Man and Bass"
     },
     {
       "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g88.data",
-      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g5.png",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g5.jpg",
       "Name": "Mega-Man Battle Network 2"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g90.data",
-      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g7.png",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g7.jpg",
       "Name": "Mega-Man Battle Network 3 - White"
     },
     {
@@ -75,6 +75,36 @@
       "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g98.data",
       "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g1.png",
       "Name": "Megaman Zero (USA, Europe)"
-    }
+    },
+	{
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g110.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g110.png",
+      "Name": "Pokemon - Emerald Version (USA, Europe)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g111.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g111.png",
+      "Name": "Pokemon - Fire Red"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g112.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g112.png",
+      "Name": "Pokemon - Leaf Green Version (USA)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g113.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g113.png",
+      "Name": "Pokemon - Ruby Version (USA)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g114.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g114.png",
+      "Name": "Pokemon - Sapphire Version (USA)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g115.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g115.png",
+      "Name": "Pokemon Mystery Dungeon - Red Rescue Team"
+    },
   ]
 }
