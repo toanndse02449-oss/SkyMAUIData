@@ -135,16 +135,6 @@
       "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g9.data",
       "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g27.jpg",
       "Name": "Bomber-Man Tournament"
-    },
-    {
-      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g10.data",
-      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g28.jpg",
-      "Name": "Bomberman Max 2 - Blue (E)"
-    },
-    {
-      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g11.data",
-      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g29.jpg",
-      "Name": "Bomberman Max 2 - Red (E)"
-    },
+    }
   ]
 }
