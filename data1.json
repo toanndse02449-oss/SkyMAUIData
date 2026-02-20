@@ -107,9 +107,19 @@
       "Name": "Pokemon Mystery Dungeon - Red Rescue Team"
     },
 	{
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g166.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g23.jpg",
+      "Name": "Pokemon Dark Worship"
+    },
+	{
       "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g165.data",
       "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g22.jpg",
       "Name": "Dragon Ball - Advanced Adventure"
+    },
+	{
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g99.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g24.jpg",
+      "Name": "Metal Slug Advance"
     },
   ]
 }
