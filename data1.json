@@ -135,6 +135,16 @@
       "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g9.data",
       "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g27.jpg",
       "Name": "Bomber-Man Tournament"
-    }
+    },
+	{
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g1.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g30.jpg",
+      "Name": "Advance Wars 2 - Black Hole Rising (USA, Australia)"
+    },
+    {
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g2.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g31.jpg",
+      "Name": "Advanced Wars"
+    },
   ]
 }
