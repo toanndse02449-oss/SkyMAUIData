@@ -106,5 +106,10 @@
       "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g21.png",
       "Name": "Pokemon Mystery Dungeon - Red Rescue Team"
     },
+	{
+      "Link": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g165.data",
+      "ImgLink": "https://raw.githubusercontent.com/toanndse02449-oss/SkyMAUIData/refs/heads/main/g22.jpg",
+      "Name": "Dragon Ball - Advanced Adventure"
+    },
   ]
 }
